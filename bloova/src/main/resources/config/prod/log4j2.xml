@@ -7,7 +7,7 @@
 
     <Appenders>
         <RollingRandomAccessFile name="FILE"
-                                 fileName="${sys:user.home}/logs/steve.log"
+                                 fileName="${sys:user.home}/logs/Plus.log"
                                  filePattern="${sys:user.home}/logs/steve-%d{yyyy-MM-dd}-%i.log.gz"
                                  immediateFlush="false"
                                  append="true">

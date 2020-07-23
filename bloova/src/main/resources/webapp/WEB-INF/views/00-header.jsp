@@ -49,7 +49,7 @@
         <div class="container">
                 <ul class="navigation">
                     <li><a href="${ctxPath}/manager/home">Home</a></li>
-                    <li><a>Management &raquo;</a>
+                    <li><a>Management </a>
                         <ul>
                             <li><a href="${ctxPath}/manager/chargepoints">Charging Stations</a></li>
                             <li><a href="${ctxPath}/manager/ocppTags">OCPP Tags</a></li>
@@ -59,7 +59,7 @@
                             <li><a href="${ctxPath}/manager/transactions">Activities</a></li>
                         </ul>
                     </li>
-                    <li><a>Operations &raquo;</a>
+                    <li><a>Operations </a>
                         <ul>
                             <li><a href="${ctxPath}/manager/operations/v1.2">OCPP v1.2</a></li>
                             <li><a href="${ctxPath}/manager/operations/v1.5">OCPP v1.5</a></li>
