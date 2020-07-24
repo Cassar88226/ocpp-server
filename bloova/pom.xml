@@ -2,7 +2,7 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>de.rwth.idsg</groupId>
-    <artifactId>Plus</artifactId>
+    <artifactId>Pulse</artifactId>
     <version>0.0.1</version>
     <packaging>jar</packaging>
 
@@ -254,7 +254,7 @@
                 <artifactId>maven-jar-plugin</artifactId>
                 <version>3.2.0</version>
                 <configuration>
-					<finalName>Plus</finalName>
+					<finalName>Pulse</finalName>
                     <archive>
                         <manifest>
 							
