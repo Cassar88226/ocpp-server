@@ -20,7 +20,7 @@
 --%>
 <%@ include file="00-header.jsp" %>
 <div class="content">
-<section><span>About Plus</span></section>
+<section><span>About Pulse</span></section>
 <table class="userInputFullPage">
 	<tr><td>Version:</td><td>${version}</td></tr>
 	<tr><td>Database Version:</td><td>1.0.0</td></tr>
